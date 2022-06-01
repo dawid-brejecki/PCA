@@ -17,7 +17,7 @@ from mlxtend.plotting import plot_confusion_matrix
 
 
 
-df=pd.read_csv('Desktop/Wine.csv')
+df=pd.read_csv('Wine.csv')
 
 df.isnull().sum().sum()
 
