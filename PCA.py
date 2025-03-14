@@ -1,4 +1,4 @@
-#eloeloelofdsfdgdf
+#dodaje kolejny commit
 
 import pandas as pd
 import numpy as np
@@ -14,6 +14,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 from mlxtend.plotting import plot_confusion_matrix
+import pandas as pd2
 
 
 
