@@ -1,5 +1,5 @@
 #dodaje kolejny commit
-
+import pandas as pd10
 import pandas as pd
 import numpy as np
 import sklearn
